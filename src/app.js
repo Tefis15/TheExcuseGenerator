@@ -8,11 +8,11 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
-  genereteExcuse();
+  generateExcuse();
 };
 
-function genereteExcuse() {
-  let who = ["the dog", "my granma", "his turtle", "my bird"];
+function generateExcuse() {
+  let who = ["The dog", "My granma", "His turtle", "My bird"];
   let what = ["eat", "pissed", "crushed", "broked"];
   let when = [
     "before the class",
